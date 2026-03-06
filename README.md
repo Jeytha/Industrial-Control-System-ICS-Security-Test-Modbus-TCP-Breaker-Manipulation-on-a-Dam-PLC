@@ -328,6 +328,12 @@ To mitigate similar risks in industrial environments:
 - Restrict **direct access to PLC hosts**
 
 - 
+---
+
+##  Disclaimer
+This project is for **educational and defensive security research only**. No real-world systems were targeted.
+
+---
 ## ❤️ Author
 
-Created by **Jeytha Sahana**  
+Created by **Jeytha Sahana** 
