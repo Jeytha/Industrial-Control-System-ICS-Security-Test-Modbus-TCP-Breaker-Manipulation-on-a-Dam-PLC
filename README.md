@@ -1,6 +1,5 @@
 # NYMEGA DAM PLC – Control Layer Exploitation Test
 
-**Author:** Jeytha Sahana Venkatesh Babu  
 **Experiment:** Modbus TCP Breaker Manipulation  
 **Environment:** NYMEGA ICS Cyber Range
 
@@ -327,3 +326,8 @@ To mitigate similar risks in industrial environments:
 - Monitor **Modbus Function Code 05 activity**
 - Deploy **ICS intrusion detection systems**
 - Restrict **direct access to PLC hosts**
+
+- 
+## ❤️ Author
+
+Created by **Jeytha Sahana**  
