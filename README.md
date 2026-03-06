@@ -327,7 +327,7 @@ To mitigate similar risks in industrial environments:
 - Deploy **ICS intrusion detection systems**
 - Restrict **direct access to PLC hosts**
 
-- 
+
 ---
 
 ##  Disclaimer
